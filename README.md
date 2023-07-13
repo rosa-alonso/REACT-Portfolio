@@ -24,3 +24,5 @@ https://tailwindcss.com/docs/guides/create-react-app
 https://www.freecodecamp.org/news/build-portfolio-website-react/
 
 ### **Deployed Link**
+
+https://whispering-everglades-62842-6fea90787c88.herokuapp.com/
