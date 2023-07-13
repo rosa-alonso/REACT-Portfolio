@@ -12,9 +12,9 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed">
             I graduated from Sam Houston State University in 2021 with a
-            Bachelor's degree in Criminal Justice. I have been teaching 6th
-            grade science for the past year now and am looking to further my
-            career as a full stack web developer.
+            Bachelor's degree in Criminal Justice. I soon realized I wanted to
+            further my career into software development. Below you will see some
+            of my projects.
           </p>
           <div className="flex justify-center">
             <a
@@ -35,7 +35,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg" //add picture here
+            src="./IMG_1434.jpeg" //add picture here
           />
         </div>
       </div>
