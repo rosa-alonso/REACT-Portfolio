@@ -24,11 +24,11 @@ export const projects = [
     link: "https://github.com/rosa-alonso/e-commerce-site",
   },
   {
-    title: "E-Commerce Site",
-    subtitle: "ORM application",
+    title: "Sentinetic",
+    subtitle: "A sentiment analysis web application",
     description:
-      "This is an ORM application created to demonstrate connecting multiple models and creating CRUD routes.",
-    image: "./Top-Ecommerce-Websites.png",
-    link: "https://github.com/rosa-alonso/e-commerce-site",
+      "This web app provides userss with a quick and easy way to discover sentiment analysis on tweets, using the Twitter API and the ChatGPT API.",
+    image: "./Screen Shot 2023-07-24 at 9.42.06 PM.png",
+    link: "https://sentinetic-987fae0a7fa7.herokuapp.com/",
   },
 ];
